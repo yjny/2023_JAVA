@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class MoveCar extends JFrame {
-    int img_x = 150, img_y = 150; // 자동차 이미지의 초기 위치 변수
+    int img_x = 150, img_y = 150; // 자동차 이미지의 초기 위치 변수!
 
     JButton leftButton, rightButton; // 왼쪽과 오른쪽 버튼을 나타내는 JButton 변수 선언
 

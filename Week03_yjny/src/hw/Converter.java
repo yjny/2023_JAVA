@@ -8,7 +8,7 @@ import java.text.DecimalFormat;
 
 public class Converter {
     public static void main(String[] args) {
-        // JFrame 생성
+        // JFrame 생성!
         JFrame frame = new JFrame("Mile->Km"); // GUI 창의 제목 설정
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // 창을 닫을 때 프로그램 종료 설정
         frame.setSize(400, 100); // GUI 창 크기 설정

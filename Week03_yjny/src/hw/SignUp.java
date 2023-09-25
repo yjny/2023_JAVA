@@ -7,7 +7,7 @@ import javax.swing.*;
 public class SignUp extends JFrame {
 
     public SignUp() {
-        JPanel panel = new JPanel(); // JPanel 생성
+        JPanel panel = new JPanel(); // JPanel 생성!
 
         // JFrame에 JPanel 추가
         add(panel);
